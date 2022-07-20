@@ -1,4 +1,4 @@
-- 👋 Olá, Eu sou o Fernando Nascimento - Desenvolvedor de Software.
+- 👋 Olá, Eu sou o Fernando Nascimento - Analista e Desenvolvedor de Sistemas.
 
 <!---
 FnITSTD/FnITSTD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
